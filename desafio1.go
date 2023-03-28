@@ -1,9 +1,8 @@
 // primeiramente declaramos o pacote principal
 package main
 
-import "fmt"
-
 //depois importamos a função fmt
+import "fmt"
 
 //declarar a variável CONST do ponto de ebulição em Kelvin
 const ebulicaoK = 372.2
